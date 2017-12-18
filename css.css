@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    width: 200px;
+    height: 200px;
+    background: fuchsia;
+    position: absolute;
+    left: 50%;
+    top:50%;
+    /*负外边距*/
+    margin-top: -100px;
+    margin-left: -100px;
+}
